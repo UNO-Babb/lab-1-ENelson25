@@ -41,8 +41,8 @@ The instructions for the program is in code. In python, a pound sign (#) is used
 Please label all of your work. There is an area at the top of the code for the file name, your name, the purpose of the file, and the last revision date. Please update all of this info.
 ```
 #FirstProgram.py
-#Name:
-#Date:
+#Name:Erin Nelson
+#Date:Aug 27, 2025
 #Assignment: Lab 1
 #Purpose: To ask a user for their name, and calculate their birth year.
 ```
